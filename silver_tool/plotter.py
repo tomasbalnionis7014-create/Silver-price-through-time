@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 
-from analysis import Moving_Average
+from .analysis import Moving_Average
 
 
 def plot_silver_price(df):
